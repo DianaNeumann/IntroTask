@@ -13,3 +13,39 @@ Now clone this repository and get on with the task. Good luck! ;)
 4. [Asp.Net core Dependency injection](https://metanit.com/sharp/aspnet5/6.1.php)
 
 *Information can be updated at some point of time. In that case you will be notified by email*
+
+## Solutions:
+
+### TODO-0
+
+> 0.1 Just added Signleton into DI
+> 0.2 Added AddControllersWithViews() and UseRouting for fixing routing
+
+### TODO-1
+
+> 1.1 Enabled authentication, cookie authentication (for 401) and authorization in startup
+> 1.2 Added default cookie creating code & refactor some stuff
+
+### TODO-2
+
+> 2.1 Added NotFound() for 404
+
+### TODO-3
+
+> 3.1 Getting data out of cookies
+
+### TODO-4
+
+> 4.1 Just annotation added
+
+### TODO-5
+
+> 5.1 Admin role added
+
+
+
+
+
+
+
+
